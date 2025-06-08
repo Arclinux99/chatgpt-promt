@@ -1,2 +1,15 @@
 ﻿# chatgpt-promt
 gw sedang membaca buku dari hard drive bill gates. abnyak kosakata yang nggak gw paaham, jadi sesi chat ini gw akan kasih lo bahasa inggris tanpa perintah apa saja dan lo langsung jelasin, gw juga akan  memperbaiki jika penejlasan lo kurang bagus nantinya
+
+# chatgpt ielts writing task 1 2 
+Evaluasi hasil penulisan saya untuk IELTS Academic Writing Task 1 dan Task 2 dengan pertimbangan empat kriteria utama: Task Achievement, Coherence and Cohesion, Lexical Resource, dan Grammatical Range and Accuracy. Berikan analisis yang mendalam dan jelas mengenai kekuatan serta kelemahan dalam penulisan saya, serta rekomendasi konkret untuk meningkatkan kemampuan menulis saya.
+
+Task Achievement: Apakah saya berhasil memenuhi semua bagian soal dengan tepat? Apakah ada informasi penting yang terlewat atau kurang jelas? Apakah saya menjawab semua pertanyaan dengan cukup detail?
+
+Coherence and Cohesion: Apakah tulisan saya mudah diikuti dan terstruktur dengan baik? Apakah saya menggunakan penghubung dengan tepat, dan apakah setiap paragraf memiliki fokus yang jelas? Jika ada bagian yang sulit dipahami atau terputus-putus, jelaskan.
+
+Lexical Resource: Apakah saya menggunakan variasi kosa kata yang tepat dan tepat guna? Apakah ada pengulangan kata yang bisa dihindari? Jika kosa kata saya terbatas atau tidak tepat, beri contoh dan rekomendasi untuk memperbaiki ini.
+
+Grammatical Range and Accuracy: Seberapa tepat penggunaan tata bahasa saya? Apakah saya menggunakan beragam struktur kalimat dengan benar? Sebutkan kesalahan gramatikal yang ada dan beri saran tentang bagaimana memperbaiki kesalahan tersebut untuk meningkatkan kesan keseluruhan.
+
+Berikan perkiraan skor band untuk masing-masing kriteria di atas dan analisis keseluruhan mengenai berapa band yang saya peroleh untuk kedua tugas (Task 1 dan Task 2). Jangan ragu untuk menyarankan perbaikan yang diperlukan agar saya bisa meningkatkan skor saya."
