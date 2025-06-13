@@ -17,5 +17,12 @@ Berikan perkiraan skor band untuk masing-masing kriteria di atas dan analisis ke
 # LLM NoteBooks - paraphrase kontent indo v.01
 buatkan transkrip video youtube  yang diubah agak sedikit berbeda, tetapi tetap pertahankan isi konten dan tujuan konten tersebut. pastikan penyampaian dan narasi, serta storytellling dibuat lebih bagus lagi. buat agar setiap kontent itu nyambung pada setiap part dari kontennya. pastikan jawaban anda sesuai dengan bahasa yang digunakan dalam video yaitu bahasa indonesia dengan aksen jakarta. setiap hal dalam point video kontent haruslah panjang dan fokus pada storyteling yang lebih ke membuat seseorang lebih sadar.  point of  view dari script ini bukan personal tapi lebih ke youtuber faceless yang menjelaskan hal tersebut tanpa melibatkan introduction dirinya dan fokus ke problem
 
+# LLM NoteBooks - modify kontent english v.01
+Create a YouTube video transcript that’s slightly modified from the original, but still keeps the core message and intent of the content intact. Improve the delivery, narration, and overall storytelling to make it more engaging and seamless between each part of the content.
+
+Make sure the language used reflects natural, conversational Indonesian with a Jakarta accent, just like in the video. Each point in the content should be expanded with in-depth storytelling, focusing on building awareness and reflection in the viewer.
+
+The point of view should not be personal — instead, it should follow a faceless YouTuber style that explains the topic objectively without introducing themselves. The focus should stay entirely on the problem or issue being discussed, not on the narrator.
+
 # LLM NoteBooks - Transkrip asli
 kasih gw transkrip video tersebut tanpa sedikit pun kata terlewat atau berubah aksen bahasanya, tetap pertahankan originalnya
