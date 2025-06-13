@@ -1,6 +1,6 @@
 Awesome — I’m glad you liked the result! If you want to **consistently get high-quality YouTube transcripts rewritten like that**, here's exactly what you can use as your **go-to prompt** for ChatGPT.
-''''
-Got it — thanks for the clarification!
+----
+> Got it — thanks for the clarification!
 You now want the YouTube transcript rewritten fully in English, maintaining:
 •	A faceless narrator tone (no personal references)
 •	Clear, flowing storytelling
